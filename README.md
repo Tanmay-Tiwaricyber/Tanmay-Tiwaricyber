@@ -12,6 +12,8 @@
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
  </pre>
  
+ <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+ 
 <!--- 
 Tanmay-Tiwaricyber/Tanmay-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
