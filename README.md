@@ -1,5 +1,7 @@
 # **Hi there, I am** Tanmay Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+![](https://komarev.com/ghpvc/?username=your-github-Tanmay-Tiwaricyber&color=dc143c)
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/TanmayTiwari.png" alt="TryHackMe">
 
 
@@ -10,10 +12,9 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Android
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
-
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
  </pre>
  
+ <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
  
 <!--- 
 Tanmay-Tiwaricyber/Tanmay-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
