@@ -14,8 +14,6 @@
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
  </pre>
  
- <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
- 
 <!--- 
 Tanmay-Tiwaricyber/Tanmay-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -27,6 +25,8 @@ You can click the Preview link to take a look at your changes.
      <img title="TANMAY TIWARI 1.2" height="300px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Tiwaricyber&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
  
  <img width="48%"  height="300px"  align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Tanmay-Tiwaricyber&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&sideNums=DDDDDD" alt="Tanmay-Tiwaricyber"/>
+ 
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
  
  ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
