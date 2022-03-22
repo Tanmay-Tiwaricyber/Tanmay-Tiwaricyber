@@ -10,9 +10,10 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Android
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
+
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
  </pre>
  
- <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
  
 <!--- 
 Tanmay-Tiwaricyber/Tanmay-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
