@@ -1,7 +1,9 @@
 # **Hi there, I am** [Tanmay Tiwari](https://remote-coders-2022.netlify.app/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://komarev.com/ghpvc/?username=your-github-Tanmay-Tiwaricyber&color=dc143c)
-<img src="https://tryhackme-badges.s3.amazonaws.com/TanmayTiwari.png" alt="TryHackMe">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/MgHacker.png" alt="TryHackMe">
+
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Tanmay-Tiwaricyber)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tanmaytiwaricyber@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)
