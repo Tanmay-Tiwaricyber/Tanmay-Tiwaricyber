@@ -1,5 +1,5 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+
+name: Tanmay Tiwari
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -22,7 +22,7 @@ jobs:
           #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          Options
           user: Tanmay-Tiwaricyber
           template: classic
           base: header, activity, community, repositories, metadata
