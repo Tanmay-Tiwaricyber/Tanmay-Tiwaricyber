@@ -9,11 +9,12 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://remote-coders-2022.netlify.app/)
 ---
-<pre>
+
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Android
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
- </pre>
+ #### 📫 How to reach me:
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)  &nbsp; <a href="mailto:tanmaytiwaricyber@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
  
 <!--- 
 Tanmay-Tiwaricyber/Tanmay-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" href="https://t.me/Silentprogrammerofficial"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=Telegram"></a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 <p align="center">
 
