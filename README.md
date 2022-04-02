@@ -1,70 +1,59 @@
 
-name: Tanmay Tiwari
-on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - repo
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+# **Hi there, I am** [Tanmay Tiwari](https://remote-coders-2022.netlify.app/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-          Options
-          user: Tanmay-Tiwaricyber
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Calcutta
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: X
-          plugin_gists: yes
-          plugin_habits: yes
-          plugin_habits_charts_type: chartist
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://remote-coders-2022.netlify.app/
-          plugin_repositories: 100
-          plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
-          plugin_skyline: yes
-          plugin_skyline_compatibility: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: 2021
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_support: yes
-          plugin_traffic: yes
+![](https://komarev.com/ghpvc/?username=your-github-Tanmay-Tiwaricyber&color=dc143c)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/TanmayTiwari.png" alt="TryHackMe">
+
+[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Tanmay-Tiwaricyber)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tanmaytiwaricyber@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://remote-coders-2022.netlify.app/)
+---
+
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Android
+<br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
+ #### 📫 How to reach me:
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)  &nbsp; <a href="mailto:tanmaytiwaricyber@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ 
+<!--- 
+Tanmay-Tiwaricyber/Tanmay-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Tiwaricyber&langs_count=10&theme=midnight-purple" > <br/> --->
+
+<p><a target="_blank" href="https://github.com/Tanmay-Tiwaricyber">
+     <img title="TANMAY TIWARI 1.2" height="300px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Tiwaricyber&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
+ 
+ <img width="48%"  height="300px"  align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Tanmay-Tiwaricyber&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&sideNums=DDDDDD" alt="Tanmay-Tiwaricyber"/>
+ 
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+ 
+ ### Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+
+ 
+ ### Technologies
+ ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+ ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
+ ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+ 
+<p align="center"
+    
+<a target="_blank" href="https://wa.me/qr/PAZIFTUUDMZ3K1"><img title="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-blue?style=for-the-badge&logo=Whatsapp"></a>
+<a target="_blank" href="https://t.me/Silentprogrammerofficial"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
+<p align="center">
+
+<a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/car-racing-game-in-html"><img title="Car Racing Game in HTML" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=car-racing-game-in-html&theme=midnight-purple"></a>
+<a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/Spiderman-Game"><img title="Spiderman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Spiderman-Game&theme=midnight-purple"></a>
+</p>
+
+
