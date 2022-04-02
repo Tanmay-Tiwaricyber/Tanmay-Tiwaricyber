@@ -1,58 +1,26 @@
-# **Hi there, I am** [Tanmay Tiwari](https://remote-coders-2022.netlify.app/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+h1 align="center">Hi 👋, I'm Tanmay Tiwari</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-Tanmay-Tiwaricyber&color=dc143c)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-tiwaricyber&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-tiwaricyber" /> </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/TanmayTiwari.png" alt="TryHackMe">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay-tiwaricyber" alt="tanmay-tiwaricyber" /></a> </p>
 
-[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Tanmay-Tiwaricyber)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tanmaytiwaricyber@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://remote-coders-2022.netlify.app/)
----
+- 🌱 I’m currently learning **Android**
 
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Android
-<br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
- #### 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)  &nbsp; <a href="mailto:tanmaytiwaricyber@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
- 
-<!--- 
-Tanmay-Tiwaricyber/Tanmay-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 My Website [https://remote-coders-2022.netlify.app/](https://remote-coders-2022.netlify.app/)
 
-<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Tiwaricyber&langs_count=10&theme=midnight-purple" > <br/> --->
+- 📫 How to reach me **tanmaytiwaricyber@gmail.com**
 
-<p><a target="_blank" href="https://github.com/Tanmay-Tiwaricyber">
-     <img title="TANMAY TIWARI 1.2" height="300px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Tiwaricyber&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
- 
- <img width="48%"  height="300px"  align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Tanmay-Tiwaricyber&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&sideNums=DDDDDD" alt="Tanmay-Tiwaricyber"/>
- 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
- 
- ### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-
- 
- ### Technologies
- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
- ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
- ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
- 
-<p align="center"
-    
-<a target="_blank" href="https://wa.me/qr/PAZIFTUUDMZ3K1"><img title="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-blue?style=for-the-badge&logo=Whatsapp"></a>
-<a target="_blank" href="https://t.me/Silentprogrammerofficial"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=Telegram"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay-tiwaricyber&show_icons=true&locale=en&layout=compact" alt="tanmay-tiwaricyber" /></p>
 
-<a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/car-racing-game-in-html"><img title="Car Racing Game in HTML" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=car-racing-game-in-html&theme=midnight-purple"></a>
-<a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/Spiderman-Game"><img title="Spiderman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Spiderman-Game&theme=midnight-purple"></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay-tiwaricyber&show_icons=true&locale=en" alt="tanmay-tiwaricyber" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-tiwaricyber&" alt="tanmay-tiwaricyber" /></p>
 
