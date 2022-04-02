@@ -1,59 +1,85 @@
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="./github-metrics.svg">
+  </a>
+</p> 
 
-# **Hi there, I am** [Tanmay Tiwari](https://remote-coders-2022.netlify.app/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-![](https://komarev.com/ghpvc/?username=your-github-Tanmay-Tiwaricyber&color=dc143c)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/TanmayTiwari.png" alt="TryHackMe">
-
-[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Tanmay-Tiwaricyber)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tanmaytiwaricyber@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://remote-coders-2022.netlify.app/)
----
-
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Android
-<br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
- #### 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)  &nbsp; <a href="mailto:tanmaytiwaricyber@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
- 
-<!--- 
-Tanmay-Tiwaricyber/Tanmay-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Tiwaricyber&langs_count=10&theme=midnight-purple" > <br/> --->
-
-<p><a target="_blank" href="https://github.com/Tanmay-Tiwaricyber">
-     <img title="TANMAY TIWARI 1.2" height="300px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Tiwaricyber&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
- 
- <img width="48%"  height="300px"  align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Tanmay-Tiwaricyber&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&sideNums=DDDDDD" alt="Tanmay-Tiwaricyber"/>
- 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
- 
- ### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-
- 
- ### Technologies
- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
- ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
- ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
- 
-<p align="center"
-    
-<a target="_blank" href="https://wa.me/qr/PAZIFTUUDMZ3K1"><img title="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-blue?style=for-the-badge&logo=Whatsapp"></a>
-<a target="_blank" href="https://t.me/Silentprogrammerofficial"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+<h1 align="center"> 🔧 Skills & Tools: </h1>
 
 <p align="center">
-
-<a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/car-racing-game-in-html"><img title="Car Racing Game in HTML" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=car-racing-game-in-html&theme=midnight-purple"></a>
-<a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/Spiderman-Game"><img title="Spiderman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Spiderman-Game&theme=midnight-purple"></a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a href="https://golang.org/">
+    <img src="https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white">
+  </a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://img.shields.io/badge/rust-000000?&style=for-the-badge&logo=rust&logoColor=white">
+  </a>
+  <a href="https://www.cplusplus.com/doc/tutorial/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  </a>
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a>
+  <br>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  </a>
+  <a href="https://www.json.org/json-en.html">
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
+  </a>
+  <a href="https://www.sublimetext.com/">
+    <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://www.google.com/intl/en_in/chrome/">
+    <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <br>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white">
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
+  </a>
 </p>
 
+<h1 align="center"> 🤝 Socials: </h1>
+  <p align="center">
+    <a href="https://twitter.com/raklaptudirm">
+      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://stackoverflow.com/users/story/14553594">
+      <img src="https://img.shields.io/badge/stack%20overflow-F58025?&style=for-the-badge&logo=stack%20overflow&logoColor=white">
+    </a>
+    <a href="https://raklaptudirm.medium.com/">
+      <img src="https://img.shields.io/badge/medium-000000?&style=for-the-badge&logo=medium&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/laptudirm/">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+</h1>
 
+<hr>
+
+<h4 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h4>
+
+<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+<a>
