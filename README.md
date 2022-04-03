@@ -22,12 +22,6 @@
 <a href="https://www.codechef.com/users/tanmaytiwari08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanmaytiwari08" height="30" width="40" /></a>
 <a href="https://discord.gg/hNSeZ9khXD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hNSeZ9khXD" height="30" width="40" /></a>
 </p>
-
-<!--- 
-Tanmay-Tiwaricyber/Tanmay-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Tiwaricyber&langs_count=10&theme=midnight-purple" > <br/> --->
 <p><a target="_blank" href="https://github.com/Tanmay-Tiwaricyber">
      <img title="TANMAY TIWARI 1.2" height="300px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Tiwaricyber&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
  
