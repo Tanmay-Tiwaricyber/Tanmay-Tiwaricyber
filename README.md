@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://remote-coders-2022.netlify.app/)
 ---
-
+<img src="https://github.com/Tanmay-Tiwaricyber/Tanmay-Tiwaricyber/blob/main/programmer (1).gif" align="right">
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Android
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
@@ -47,6 +47,6 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/Spiderman-Game"><img title="Spiderman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Spiderman-Game&theme=midnight-purple"></a>
 </p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/tanmaytiwari1.2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/tanmaytiwari1.2" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/tanmaytiwari1.2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/tanmaytiwari1.2" /></a></p><br><br>
 
 
