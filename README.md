@@ -13,8 +13,13 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Android
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
- #### 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)  &nbsp; <a href="mailto:tanmaytiwaricyber@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/tanmay-tiwaricyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tanmay-tiwaricyber" height="30" width="40" /></a>
+<a href="https://dev.to/tanmaytiwaricyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tanmaytiwaricyber" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/tanmay-tiwari-1-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanmay-tiwari-1-2" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/silent programmer official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silent programmer official" height="30" width="40" /></a>
+</p>
 <!--- 
 Tanmay-Tiwaricyber/Tanmay-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -51,9 +56,4 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/car-racing-game-in-html"><img title="Car Racing Game in HTML" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=car-racing-game-in-html&theme=midnight-purple"></a>
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/Spiderman-Game"><img title="Spiderman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Spiderman-Game&theme=midnight-purple"></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay-tiwaricyber&show_icons=true&locale=en&layout=compact" alt="tanmay-tiwaricyber" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay-tiwaricyber&show_icons=true&locale=en" alt="tanmay-tiwaricyber" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-tiwaricyber&" alt="tanmay-tiwaricyber" /></p>
 
