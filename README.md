@@ -10,8 +10,10 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://remote-coders-2022.netlify.app/)
 ---
 <img src="https://github.com/Tanmay-Tiwaricyber/Tanmay-Tiwaricyber/blob/main/programmer (1).gif" align="right">
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Android
+👀 I’m interested in programming
+
+🌱 I’m currently learning Android
+
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
