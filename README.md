@@ -42,7 +42,7 @@
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/car-racing-game-in-html"><img title="Car Racing Game in HTML" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=car-racing-game-in-html&theme=midnight-purple"></a>
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/Spiderman-Game"><img title="Spiderman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Spiderman-Game&theme=midnight-purple"></a>
 </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tanmaytiwari1.2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/tanmaytiwari1.2" /></a></p><br><br>
+<h3 align="left"><b>Support:</b></h3>
+<p><a href="https://www.buymeacoffee.com/tanmaytiwari1.2"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="center" height="50" width="210" alt="https://www.buymeacoffee.com/tanmaytiwari1.2" /></a></p><br><br>
 
 
