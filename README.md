@@ -1,8 +1,11 @@
-# **Hi there, I am** [Tanmay Tiwari](https://remote-coders-2022.netlify.app/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi there, I am <a href="https://remote-coders-2022.netlify.app/">Tanmay Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ![](https://komarev.com/ghpvc/?username=your-github-Tanmay-Tiwaricyber&color=dc143c)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/TanmayTiwari.png" alt="TryHackMe">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Tanmay-Tiwaricyber)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tanmaytiwaricyber@gmail.com)
