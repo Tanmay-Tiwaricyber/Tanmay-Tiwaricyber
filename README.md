@@ -20,7 +20,6 @@
 📫 How to reach me tanmaytiwaricyber@gmail.com
 
 ⚡ Fun fact I am Funny
-
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 
 <h3 align="left">Connect with me:</h3>
