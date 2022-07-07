@@ -46,7 +46,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 <p align="center">
-<a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/tphisher"><img title="Tpisher" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=car-racing-game-in-html&theme=midnight-purple"></a>
+<a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/tphisher"><img title="Tpisher" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=tphisher&theme=midnight-purple"></a>
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/Spiderman-Game"><img title="Spiderman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Spiderman-Game&theme=midnight-purple"></a>
 
 [![Tanmay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Tanmay-Tiwaricyber&&theme=xcode)](https://github.com/Tanmay-Tiwaricyber)
