@@ -49,7 +49,7 @@
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/tphisher"><img title="Tpisher" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Tphisher&theme=midnight-purple"></a>
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/Spiderman-Game"><img title="Spiderman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Spiderman-Game&theme=midnight-purple"></a>
 
-[![Tanmay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Tanmay-Tiwaricyber&&theme=xcode)](https://github.com/Tanmay-Tiwaricyber)
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
 
 </p>
 <h3 align="left"><b>Support:</b></h3>
