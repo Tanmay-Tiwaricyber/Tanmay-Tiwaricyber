@@ -1,6 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi there, I am <a href="https://remote-coders-2022.netlify.app/">Tanmay Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+developer+from+India;%F0%9F%92%AC+Ask+me+about+Android+%2C+Python+%2C+C+%2C+C%2B%2B+%2C+HTML+%2C+CSS+%2C+JS;%F0%9F%93%AB+How+to+reach+me+-+tanmaytiwaricyber%40gmail.com;%E2%9A%A1+Fun+fact+I+am+Funny+%5BWeb+Developer%5D+%5BProgrammar%5D+%5BHacker%5D+%5BCoder%5D" alt="Typing SVG" /></a>
+</h1>
 
 ![](https://komarev.com/ghpvc/?username=your-github-Tanmay-Tiwaricyber&color=dc143c)<br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/TanmayTiwari.png" alt="TryHackMe">
@@ -11,17 +14,6 @@
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tanmaytiwaricyber@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanmay-tiwari-a4a551235)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://tanmay-tiwaricyber.netlify.app/)
-
-👀 I’m interested in programming
-
-🌱 I’m currently learning Android
-
-💬 Ask me about Android , Python , C , C++ , HTML , CSS , JS
-
-📫 How to reach me tanmaytiwaricyber@gmail.com
-
-⚡ Fun fact I am Funny
-<br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
