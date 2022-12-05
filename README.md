@@ -2,8 +2,9 @@
 <h1 align="center">Hi there, I am <a href="https://remote-coders-2022.netlify.app/">Tanmay Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">A passionate developer from India</h3>
 
-![](https://komarev.com/ghpvc/?username=Tanmay-Tiwaricyber&color=dc143c)<br>
-<script src="https://tryhackme.com/badge/1009154"></script>
+![](https://komarev.com/ghpvc/?username=your-github-Tanmay-Tiwaricyber&color=dc143c)<br>
+
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
