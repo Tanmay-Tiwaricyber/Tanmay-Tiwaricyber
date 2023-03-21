@@ -50,7 +50,7 @@
 
 <p align="center">
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/tphisher"><img title="Tpisher" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Tphisher&theme=midnight-purple"></a>
-<a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/Spiderman-Game"><img title="Spiderman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Spiderman-Game&theme=midnight-purple"></a>
+<a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/WcamPhish"><img title="WcamPhish" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=WcamPhish&theme=midnight-purple"></a>
 
 
 </p>
