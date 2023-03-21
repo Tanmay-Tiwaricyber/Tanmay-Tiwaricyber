@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi there, I am <a href="https://remote-coders-2022.netlify.app/">Tanmay Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -52,8 +52,6 @@
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/tphisher"><img title="Tpisher" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Tphisher&theme=midnight-purple"></a>
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/Spiderman-Game"><img title="Spiderman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Spiderman-Game&theme=midnight-purple"></a>
 
-<p align="center"><img src="https://github.com/Tanmay-Tiwaricyber/Tanmay-Tiwaricyber/blob/main/.github/images/Project%201.gif" alt="Bt">
-<p align="center"><img src="https://github.com/Tanmay-Tiwaricyber/Tanmay-Tiwaricyber/blob/main/.github/images/keyboard.gif" alt="Bt">
 
 </p>
 <h3 align="left"><b>Support:</b></h3>
