@@ -36,9 +36,60 @@
 </p>
 <p><a target="_blank" href="https://github.com/Tanmay-Tiwaricyber">
      <img title="TANMAY TIWARI 1.2" height="300px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Tiwaricyber&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
+<h1>Languages and Tools:</h1> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="40px" alt="android icon"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="40px" alt="arduino icon"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="40px" alt="azure icon"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" width="40px" alt="kotlin icon"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40px" alt="java icon"/>
+  <img src="https://skillicons.dev/icons?i=gradle" width="40px" alt="gradle icon"/>
+  <img src="https://skillicons.dev/icons?i=python" width="40px" alt="python icon"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="40px" alt="flask icon"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="40px" alt="firebase icon"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40px" alt="MySQL icon"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40px" alt="git icon"/>
+  <img src="https://skillicons.dev/icons?i=gradle" width="40px" alt="gradle icon"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40px" alt="github icon"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40px" alt="html5 icon"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40px" alt="css3 icon"/>
+  <img src="https://skillicons.dev/icons?i=sass" width="40px" alt="sass icon"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40px" alt="bootstrap icon"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40px" alt="tailwind icon"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="javascript icon"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40px" alt="nodejs icon"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40px" alt="react icon"/>
+  <img src="https://skillicons.dev/icons?i=d3" width="40px" alt="d3 icon"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40px" alt="mongodb icon"/>
+  <img src="https://skillicons.dev/icons?i=neovim" width="40px" alt="neovim icon"/>
+  <img src="https://skillicons.dev/icons?i=atom" width="40px" alt="atom icon"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40px" alt="vscode icon"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="40px" alt="idea icon"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40px" alt="linux icon"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="40px" alt="aws icon"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="40px" alt="gcp icon"/>
+  <img src="https://skillicons.dev/icons?i=blender" width="40px" alt="blender icon"/>
+  <img src="https://skillicons.dev/icons?i=netlify" width="40px" alt="netlify icon"/>
+  <img src="https://skillicons.dev/icons?i=vim" width="40px" alt="vim icon"/>
+  <img src="https://skillicons.dev/icons?i=unity" width="40px" alt="unity icon"/>
+  <img src="https://skillicons.dev/icons?i=unreal" width="40px" alt="unreal icon"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="40px" alt="vercel icon"/>
+  <img src="https://skillicons.dev/icons?i=powershell" width="40px" alt="powershell icon"/>
+  <img src="https://skillicons.dev/icons?i=pr" width="40px" alt="pr icon"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40px" alt="postman icon"/>
+  <img src="https://skillicons.dev/icons?i=ps" width="40px" alt="ps icon"/>
+  <img src="https://skillicons.dev/icons?i=heroku" width="40px" alt="heroku icon"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="40px" alt="firebase icon"/>
+  <img src="https://skillicons.dev/icons?i=codepen" width="40px" alt="codepen icon"/>
+  
+  
+  
+  
 
+</div>
+<br>
 <p align="center"
     
    
