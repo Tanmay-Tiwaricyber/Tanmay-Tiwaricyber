@@ -31,7 +31,7 @@
 <a href="https://codepen.io/tanmay-tiwaricyber" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="tanmay-tiwaricyber" height="30" width="40" /></a>
 <a href="https://dev.to/tanmaytiwaricyber" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="tanmaytiwaricyber" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/tanmay-tiwari-1-2" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="tanmay-tiwari-1-2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/silent programmer official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silent programmer official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@silentprogrammerofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silent programmer official" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tanmaytiwari08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanmaytiwari08" height="30" width="40" /></a>
 <a href="https://discord.gg/hNSeZ9khXD" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="hNSeZ9khXD" height="30" width="40" /></a>
 </p>
