@@ -25,14 +25,15 @@
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 
 [![@silentprogrammer2022's Holopin board](https://holopin.me/silentprogrammer2022)](https://holopin.io/@silentprogrammer2022)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/tanmay-tiwaricyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tanmay-tiwaricyber" height="30" width="40" /></a>
-<a href="https://dev.to/tanmaytiwaricyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tanmaytiwaricyber" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tanmay-tiwari-1-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanmay-tiwari-1-2" height="30" width="40" /></a>
+<a href="https://codepen.io/tanmay-tiwaricyber" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="tanmay-tiwaricyber" height="30" width="40" /></a>
+<a href="https://dev.to/tanmaytiwaricyber" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="tanmaytiwaricyber" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/tanmay-tiwari-1-2" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="tanmay-tiwari-1-2" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/silent programmer official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silent programmer official" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tanmaytiwari08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanmaytiwari08" height="30" width="40" /></a>
-<a href="https://discord.gg/hNSeZ9khXD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hNSeZ9khXD" height="30" width="40" /></a>
+<a href="https://discord.gg/hNSeZ9khXD" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="hNSeZ9khXD" height="30" width="40" /></a>
 </p>
 <p><a target="_blank" href="https://github.com/Tanmay-Tiwaricyber">
      <img title="TANMAY TIWARI 1.2" height="300px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Tiwaricyber&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
