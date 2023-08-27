@@ -25,6 +25,8 @@
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 
 [![@silentprogrammer2022's Holopin board](https://holopin.me/silentprogrammer2022)](https://holopin.io/@silentprogrammer2022)
+<a href="(https://stackoverflow.com/users/18688603/tanmay-tiwari-1-2)/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=18688603&theme=dark" height="250"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +39,7 @@
 </p>
 <p><a target="_blank" href="https://github.com/Tanmay-Tiwaricyber">
      <img title="TANMAY TIWARI 1.2" height="300px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Tiwaricyber&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
+     
 <br>
 <h1>Languages and Tools:</h1> 
 <div align="center">
