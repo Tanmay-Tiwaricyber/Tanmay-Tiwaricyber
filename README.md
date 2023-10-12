@@ -24,7 +24,7 @@
 ⚡ Fun fact I am Funny
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 
-[![@silentprogrammer2022's Holopin board](https://holopin.me/silentprogrammer2022)](https://holopin.io/@silentprogrammer2022)
+[![An image of @tanmaytiwaricyber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanmaytiwaricyber)](https://holopin.io/@tanmaytiwaricyber)
 <a href="(https://stackoverflow.com/users/18688603/tanmay-tiwari-1-2)/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=18688603&theme=dark" height="250"></a>
 
 
