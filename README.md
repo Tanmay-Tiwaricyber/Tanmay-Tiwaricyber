@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 ![](https://komarev.com/ghpvc/?username=your-github-Tanmay-Tiwaricyber&color=dc143c)<br>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/TanmayTiwari.png" alt="TryHackMe">
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -25,7 +25,6 @@
 <br>[Web Developer]  [Programmar]  [Hacker]  [Coder]
 
 [![An image of @tanmaytiwaricyber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanmaytiwaricyber)](https://holopin.io/@tanmaytiwaricyber)
-<a href="(https://stackoverflow.com/users/18688603/tanmay-tiwari-1-2)/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=18688603&theme=dark" height="250"></a>
 
 
 <h3 align="left">Connect with me:</h3>
