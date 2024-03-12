@@ -38,7 +38,10 @@
 </p>
 <p><a target="_blank" href="https://github.com/Tanmay-Tiwaricyber">
      <img title="TANMAY TIWARI 1.2" height="300px" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Tiwaricyber&show_icons=true&include_all_commits=true&theme=midnight-purple&cache_seconds=3200"></a>
-     
+
+<a href="https://github.com/Tanmay-Tiwaricyber">
+  <img width="48%"  height="300px"  align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Tanmay-Tiwaricyber&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&sideNums=DDDDDD" alt="MG_Hacker" />
+</a>
 <br>
 <h1>Languages and Tools:</h1> 
 <div align="center">
@@ -87,20 +90,15 @@
   <img src="https://skillicons.dev/icons?i=firebase" width="40px" alt="firebase icon"/>
   <img src="https://skillicons.dev/icons?i=codepen" width="40px" alt="codepen icon"/>
   
-  
-  
-  
 
 </div>
 <br>
 <p align="center"
     
-   
-<a target="_blank" href="https://chat.whatsapp.com/IKy4JjNQIvvHZh9VTu5Jxh"><img title="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-blue?style=for-the-badge&logo=Whatsapp"></a>
 <a target="_blank" href="https://t.me/Silentprogrammerofficial"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+<img src="https://github-profile-trophy.vercel.app/?username=Tanmay-Tiwaricyber&theme=midnight-pruple&no-frame=true&row=1&&margin-w=20&no-bg=false"></img>
 
 <p align="center">
 <a target="_blank" href="https://github.com/Tanmay-Tiwaricyber/tphisher"><img title="Tpisher" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmay-Tiwaricyber&repo=Tphisher&theme=midnight-purple"></a>
