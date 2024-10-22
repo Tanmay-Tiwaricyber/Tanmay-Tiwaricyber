@@ -26,6 +26,50 @@
 
 [![An image of @tanmaytiwaricyber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanmaytiwaricyber)](https://holopin.io/@tanmaytiwaricyber)
 
+<table>
+  <tr>
+<td>
+    <td>
+      <a href="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?identity__email=tanmaytiwaricyber@gmail.com">
+        <img width="160px" height="160px" src="Cyber Hacktics - DEADFACE CTF 2024 Competitor - 2024-10-19.png">
+      </a>
+    </td>
+    <td>
+      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 15px; font-weight: 600; margin: 0; text-align: left;">
+        DEADFACE CTF 2024 Competitor
+      </p>
+      <p style="font-size: 8px; margin: 0; text-align: left;">
+        <strong>Awarded:</strong> Oct 19, 2024
+      </p>
+      <p style="font-size: 8px; margin: 0; text-align: left;">
+        <strong>Awarded To:</strong> Cyb3r.t1nm1y
+      </p>
+    </td>
+  </td>
+
+<td>
+    <td>
+      <a href="https://api.badgr.io/public/assertions/dl6ok0qiTRuMH-vLdOXKog?identity__email=tanmaytiwaricyber@gmail.com">
+        <img width="160px" height="160px" src="Cyber Hacktics - DEADFACE CTF 2024 Write-Up - 2024-10-19.png">
+      </a>
+    </td>
+    <td>
+      <p style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; font-size: 15px; font-weight: 600; margin: 0; text-align: left;">
+        DEADFACE CTF 2024 Write-Up
+      </p>
+      <p style="font-size: 8px; margin: 0; text-align: left;">
+        <strong>Awarded:</strong> Oct 19, 2024
+      </p>
+      <p style="font-size: 8px; margin: 0; text-align: left;">
+        <strong>Awarded To:</strong> Cyb3r.t1nm1y
+      </p>
+    </td>
+  </td>
+<td></td>
+   
+  </tr>
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
