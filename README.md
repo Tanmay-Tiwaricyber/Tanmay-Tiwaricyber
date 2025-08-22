@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-Tanmay-Tiwaricyber&color=dc143c)<br>
 
-
+![](https://tryhackme-badges.s3.amazonaws.com/TanmayTiwari.png)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -87,6 +87,7 @@
   <img width="48%"  height="300px"  align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Tanmay-Tiwaricyber&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&sideNums=DDDDDD" alt="MG_Hacker" />
 </a>
 <br>
+
 <h1>Languages and Tools:</h1> 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio" width="40px" alt="android icon"/>
